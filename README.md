@@ -1,7 +1,6 @@
 # Digital-Speech-Processing
 
-The most common means of communication is speech. Speech processing refers to the intersection of digital signal processing and natural language processing. There are many forms of speech processing and speech processing is used in a lot of different applications.
-
+The most common means of communication is speech. Speech processing refers to the intersection of digital signal processing and natural language processing. There are many forms of speech processing and speech processing is used in a lot of different applications such as:
 <ul>
   <li>Speech emotion recognition in intelligent household robots.</li>
   <li>Speaker verification.</li>
@@ -14,4 +13,4 @@ The most common means of communication is speech. Speech processing refers to th
   <li>Call centre automation.</li>
  </ul>
  
- In this project, we have done a lot of analysis on speech using Python.
+ In this project, we have done a lot of analysis on speech data using Machine Learning and Deep Learning algorithms using Python.
