@@ -1,0 +1,30 @@
+Analysis of Audio Files
+
+Digitization and Recording of Speech
+
+Human Speech Production
+
+Sampling Theorem
+
+Building a Basic Language Model
+
+Audio Signal Feature Extraction
+
+Force Alignment Expectation
+
+Spectrum Analysis
+
+Speech to Text Modeling
+
+Data Exploration and Visualization
+
+Wave Analysis of Heartbeat
+
+Multilingual Speech
+
+Speech to Speech Translation
+
+Voice Building using Text: Personal Voice Assistant
+
+Speaker Identification
+
