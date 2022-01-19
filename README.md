@@ -13,4 +13,4 @@ The most common means of communication is speech. Speech processing refers to th
   <li>Call centre automation.</li>
  </ul>
  
- In this project, we have done a lot of analysis on speech data using Machine Learning and Deep Learning algorithms using Python.
+ In this project, we have done a lot of analysis on speech data using Machine Learning and Deep Learning algorithms in Python.
